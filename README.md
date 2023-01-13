@@ -1,7 +1,9 @@
 # Agreement_Analysis
 Bland-Altman Agreement Analysis
+
         This program is used for the agreement evaluation between two methods
         and the test for repeatability. 
+        
 Reference:
         J. M. Bland and D. G. Altman, "Statistical methods for assessing
         agreement between two methods of clinical measurement", Lancet,
